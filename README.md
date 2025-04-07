@@ -21,7 +21,7 @@ Antes de iniciar a execução do projeto, verifique se os seguintes requisitos e
 - 🎼 Composer
 - 🌐 Laravel ≥ 10
 - 🗄️ MySQL
-- 🟢 Node.js (para o Vite, se aplicável)
+- 🟢 Node.js 
 
 ## 🔧 Instalação e Configuração
 
