@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # 🛒 Sistema de Gerenciamento de Compras Coletivas
 
 ## 📌 Descrição
